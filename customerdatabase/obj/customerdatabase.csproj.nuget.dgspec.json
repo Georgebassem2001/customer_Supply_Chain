@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net\\customerdatabase\\customerdatabase.csproj": {}
+    "C:\\Users\\mac\\Source\\Repos\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj": {}
   },
   "projects": {
-    "E:\\.net\\customerdatabase\\customerdatabase.csproj": {
+    "C:\\Users\\mac\\Source\\Repos\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net\\customerdatabase\\customerdatabase.csproj",
+        "projectUniqueName": "C:\\Users\\mac\\Source\\Repos\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj",
         "projectName": "customerdatabase",
-        "projectPath": "E:\\.net\\customerdatabase\\customerdatabase.csproj",
-        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "E:\\.net\\customerdatabase\\obj\\",
+        "projectPath": "C:\\Users\\mac\\Source\\Repos\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj",
+        "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mac\\Source\\Repos\\customer_Supply_Chain\\customerdatabase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
