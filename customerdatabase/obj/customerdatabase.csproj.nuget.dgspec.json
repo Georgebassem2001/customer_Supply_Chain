@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net\\customerdatabase\\customerdatabase.csproj": {}
+    "C:\\Users\\user\\Desktop\\Project\\customerdatabase\\customerdatabase.csproj": {}
   },
   "projects": {
-    "E:\\.net\\customerdatabase\\customerdatabase.csproj": {
+    "C:\\Users\\user\\Desktop\\Project\\customerdatabase\\customerdatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net\\customerdatabase\\customerdatabase.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Project\\customerdatabase\\customerdatabase.csproj",
         "projectName": "customerdatabase",
-        "projectPath": "E:\\.net\\customerdatabase\\customerdatabase.csproj",
-        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "E:\\.net\\customerdatabase\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Project\\customerdatabase\\customerdatabase.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Project\\customerdatabase\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
