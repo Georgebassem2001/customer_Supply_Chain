@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net\\customerdatabase\\customerdatabase.csproj": {}
+    "C:\\Users\\georg\\Source\\Repos\\Georgebassem2001\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj": {}
   },
   "projects": {
-    "E:\\.net\\customerdatabase\\customerdatabase.csproj": {
+    "C:\\Users\\georg\\Source\\Repos\\Georgebassem2001\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net\\customerdatabase\\customerdatabase.csproj",
+        "projectUniqueName": "C:\\Users\\georg\\Source\\Repos\\Georgebassem2001\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj",
         "projectName": "customerdatabase",
-        "projectPath": "E:\\.net\\customerdatabase\\customerdatabase.csproj",
+        "projectPath": "C:\\Users\\georg\\Source\\Repos\\Georgebassem2001\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "E:\\.net\\customerdatabase\\obj\\",
+        "outputPath": "C:\\Users\\georg\\Source\\Repos\\Georgebassem2001\\customer_Supply_Chain\\customerdatabase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
