@@ -5797,24 +5797,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\mac\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Project\\customerdatabase\\customerdatabase.csproj",
+      "projectUniqueName": "C:\\Users\\mac\\Source\\Repos\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj",
       "projectName": "customerdatabase",
-      "projectPath": "C:\\Users\\user\\Desktop\\Project\\customerdatabase\\customerdatabase.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Project\\customerdatabase\\obj\\",
+      "projectPath": "C:\\Users\\mac\\Source\\Repos\\customer_Supply_Chain\\customerdatabase\\customerdatabase.csproj",
+      "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mac\\Source\\Repos\\customer_Supply_Chain\\customerdatabase\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\mac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
