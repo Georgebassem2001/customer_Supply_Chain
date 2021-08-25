@@ -11,6 +11,5 @@ namespace customerdatabase.Controllers
     [ApiController]
     public class productController : ControllerBase
     {
-        int x;
     }
 }
