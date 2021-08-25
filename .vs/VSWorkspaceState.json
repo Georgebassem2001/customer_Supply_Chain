@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\customerdatabase"
   ],
-  "SelectedNode": "\\customerdatabase.sln",
+  "SelectedNode": "\\customerdatabase\\customerdatabase.sln",
   "PreviewInSolutionExplorer": false
 }
