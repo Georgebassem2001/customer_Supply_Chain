@@ -9,6 +9,12 @@ namespace customerdatabase.model
     public class customerdbcontext : DbContext
     {
         public customerdbcontext(DbContextOptions<customerdbcontext> options) : base(options) { }
+        public customerdbcontext()
+        {
+
+        }
+       
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.EnableSensitiveDataLogging();
